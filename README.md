@@ -1,5 +1,5 @@
 # Shenzhen-FUMAN-Electronics-lib
-![FUMAN Library Logo](/resources/fuman_logo.jpg)
+![FUMAN Library Logo](/resources/fuman_logo.jpeg)
 
 # FUMAN Altium Library 
 
