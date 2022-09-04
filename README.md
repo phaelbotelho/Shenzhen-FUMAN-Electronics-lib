@@ -3,6 +3,10 @@
 
 # FUMAN Altium Library
 
+This is not a official Library and thus not all parts are included. You are welcome to open a PR to add support for new Parts.
+
+# Support Matrix
+
 ## Touch Sensor
 | **Part** | **In library** | **Tested in production** | **Small function description** |
 |:--------:|:--------------:|:------------------------:|:------------------------------:|
